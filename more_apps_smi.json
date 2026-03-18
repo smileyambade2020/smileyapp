@@ -3,22 +3,29 @@
     "name": "Valentine Day Wallpapers HD",
     "packageName": "com.sjr.wallpaper.valentine",
     "icon": "https://play-lh.googleusercontent.com/Xenv-3VCrTurgt2T-4IpSmRllXkSF39dVJsmx0gzep3RBnwqjsUKU3YAfTKhTSDNeI3BW_pWoNLRJ0GyUueuhw=s128-rw",
-    "rating": 0,
     "downloads": "500+",
-    "isClick": true
-  },
-  {
-    "name": "Helicopter Wallpaper HD",
-    "packageName": "com.sjr.wallpaper.helicopter",
-    "icon": "https://play-lh.googleusercontent.com/h8-vWaMFLXdBDRrgiSl-RRkIdHPf0z4YLxxKuzL1uPhUlzwmEerQP9OI8fpvJoLGy_r-578H782I8PQgvEZL=s128-rw",
-    "downloads": "100+",
     "isClick": true
   },
   {
     "name": "Swami Vivekananda Wallpaper HD",
     "packageName": "com.sjr.wallpaper.vivekananda",
     "icon": "https://play-lh.googleusercontent.com/luvQoOwi6FHhSZkquPE91MMmTkW6bxaasdWbmBAumqKbK4UNbFp9Y48IKytuEMfzCHiLiHbcv0G0tdtNjeO-=s128-rw",
+    "downloads": "100+",
+    "isClick": true
+  },
+  {
+    "name": "Superheroes Wallpapers HD",
+    "packageName": "com.sjr.wallpaper.superheroes",
+    "icon": "https://play-lh.googleusercontent.com/XQcnaNnJ-0wgGJos93yyb3pYJjmpx29p6om-rxuO7aK4YA7HZvTJEjCYptqiEznz9NRWdvpl_7NHPbL_3_8wxg=s128-rw",
     "downloads": "50+",
+    "isClick": true
+  },
+  {
+    "name": "Allah Islamic Wallpapers HD",
+    "packageName": "com.sjr.wallpaper.allah",
+    "icon": "https://play-lh.googleusercontent.com/002NGB2_HS5_wHQ20hMIfFk6Fo4ixjFkAanu9LLx3XePwpRsd1Yr4ht6lku9uUzEo8e5eI0ogscoZe8XPvA5DKM=s128-rw",
+    "rating": 0,
+    "downloads": "100+",
     "isClick": true
   },
   {
@@ -29,10 +36,74 @@
     "isClick": true
   },
   {
+    "name": "Water Drops Wallpapers HD",
+    "packageName": "com.sjr.wallpaper.water",
+    "icon": "https://play-lh.googleusercontent.com/wGiRzSwfX5IP5PVgvZBRTm56B_9xCRlsdsxFLxAu6ri8EWfdCKiLXOMhMXSEPagT2EHinlfdB9EU6t8hmyfy=s128-rw",
+    "downloads": "10+",
+    "isClick": true
+  },
+  {
+    "name": "Football Wallpapers HD",
+    "packageName": "com.sjr.wallpaper.football",
+    "icon": "https://play-lh.googleusercontent.com/sCZGuSvANjRBgUXOeXeylhf5KFyWX0euvVtH8ulv8b7Ue-9Fxe9PjE6sECP6Aa6MvY2oH_XepYRIc7HIE82HLfE=s128-rw",
+    "downloads": "10+",
+    "isClick": true
+  },
+  {
+    "name": "Vector Art Wallpapers HD",
+    "packageName": "com.sjr.wallpaper.vector",
+    "icon": "https://play-lh.googleusercontent.com/vx19tMKeaY1hqnBPaJTO01RkbC_E7yhX9IJ6J4MnnO4kkxO-D2psCIB_U_UZ9AZScd_uvPBO-5npJBRK8kzxhQ=s128-rw",
+    "downloads": "10+",
+    "isClick": true
+  },
+  {
+    "name": "Halloween Wallpapers HD",
+    "packageName": "com.sjr.wallpaper.halloween",
+    "icon": "https://play-lh.googleusercontent.com/CVkUpfXZGQcsiApG1E0kcbIPttsWEbDdckT5qZ48t0hbJWd8GSBEJYyU-qmTPDSEsYHeMajcJdxJtoMXKABtjA=s128-rw",
+    "downloads": "5+",
+    "isClick": true
+  },
+  {
+    "name": "Vintage Wallpapers HD",
+    "packageName": "com.sjr.wallpaper.vintage",
+    "icon": "https://play-lh.googleusercontent.com/tMOUaHr65e9QokMX8EztOW7cThXGcC2es94nQrmota0VILJzaYP7UDBDY3VGdeSRrcceWc0y8odokx9lSPwqQg=s128-rw",
+    "downloads": "10+",
+    "isClick": true
+  },
+  {
+    "name": "Clock Wallpapers HD",
+    "packageName": "com.sjr.wallpaper.clock",
+    "icon": "https://play-lh.googleusercontent.com/wGG6z3vXQaISMrIefGnIA9kajCjjYMTpO0yCLBRWwHu8-8DtU7EW5z7nPtaCmfDN7Z7v4-oyYsu5Ov-AO5h7Lg=s128-rw",
+    "downloads": "10+",
+    "isClick": true
+  },
+  {
+    "name": "Chocolate Wallpapers HD",
+    "packageName": "com.sjr.wallpaper.chocolate",
+    "icon": "https://play-lh.googleusercontent.com/7AACm2IQmJN_Dyf0YfwHBDVgE_JtoFq3HiMl4iMgghGA9VpDZ6_GaJO-34Lco9Bb6PDWTAuVSnxf7hLoj4LtPA=s128-rw",
+    "rating": 0,
+    "downloads": "50+",
+    "isClick": true
+  },
+  {
+    "name": "Helicopter Wallpaper HD",
+    "packageName": "com.sjr.wallpaper.helicopter",
+    "icon": "https://play-lh.googleusercontent.com/h8-vWaMFLXdBDRrgiSl-RRkIdHPf0z4YLxxKuzL1uPhUlzwmEerQP9OI8fpvJoLGy_r-578H782I8PQgvEZL=s128-rw",
+    "downloads": "100+",
+    "isClick": true
+  },
+  {
+    "name": "Roman Reigns Wallpaper Wrestle",
+    "packageName": "com.sjr.wallpaper.wwe",
+    "icon": "https://play-lh.googleusercontent.com/-gU0ySKO3DVE0_SBQonf_HHuwPmgI4AcyA5MKKIkewU_SpGl2oCnRG5XMsONAWaNj1Qjy9PKMZJHF_ZOZln36eU=s128-rw",
+    "downloads": "1,000+",
+    "isClick": true
+  },
+  {
     "name": "Lord Surya Dev Wallpapers HD",
     "packageName": "com.sjr.wallpaper.surya",
     "icon": "https://play-lh.googleusercontent.com/UxvrYFVUW431RqN9Q3vbU0IvEd2FYlE3H5LGi9eMyZsAqTN4y1yMYhrCQ3FGdQrxhvOyRqO3haHuzMtb5e7n9g=s128-rw",
-    "rating": 0,
+    "rating": 4.4,
     "downloads": "100+",
     "isClick": true
   },
@@ -54,14 +125,14 @@
     "name": "Rain Wallpapers HD",
     "packageName": "com.sjr.wallpaper.rain",
     "icon": "https://play-lh.googleusercontent.com/noIcTkjZWso_Tublvl20U3h8fcBVNgk_w0TRPfRP-sCuMUPpH8cgvrLkPt9nPspKIMeB6xCGEXlTkYjLJPGFzw=s128-rw",
-    "downloads": "50+",
+    "downloads": "100+",
     "isClick": true
   },
   {
     "name": "Aquarium Wallpapers HD",
     "packageName": "com.sjr.wallpaper.aquarium",
     "icon": "https://play-lh.googleusercontent.com/5jf3gLwHqIX0YoBjvEdMDMQrWdcyPoDH3-2NfRwE4y-Gb1FXMcGuPPBy52L4vYYZlYq6Kg7JUfvbbMNjDQBg=s128-rw",
-    "downloads": "50+",
+    "downloads": "100+",
     "isClick": true
   },
   {
